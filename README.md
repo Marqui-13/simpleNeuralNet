@@ -1,1 +1,1 @@
-# simpleNeuralNet
+This code creates a simple neural network with one hidden layer of 32 units, using the ReLU activation function, and an output layer with a sigmoid activation function, which is appropriate for binary classification. The model is compiled using the Adam optimization algorithm and binary cross-entropy loss, and is trained for 10 epochs using mini-batches of 32 samples. Finally, the model is evaluated on the test data.
